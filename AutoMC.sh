@@ -23,7 +23,7 @@ echo "Running Fabric installer..."
 java -Xms256M -Xmx256M -jar fabric.jar --nogui
 
 echo "Downloading performance Mods/Options..."
-curl -O https://github.com/fortniteking231/TermuxCraft/raw/refs/heads/main/FPS.zip
+curl -O -L https://github.com/fortniteking231/TermuxCraft/raw/refs/heads/main/FPS.zip
 unzip -o FPS.zip
 echo "Mods downloaded, unzipped, and replaced existing files."
 

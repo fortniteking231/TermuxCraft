@@ -47,3 +47,5 @@ chmod +x install.sh
 
   <h2>License</h2>
   <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+
+  <h1>THANK YOU CHATGPT FOR THE README</h1>
